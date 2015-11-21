@@ -1,6 +1,8 @@
 # data-area-indonesia-2015
 (c) Allah SWT
 
+Data Desa/Kelurahan, Kecamatan, Kabupaten, Provinsi Terbaru 2015
+
 Silakan dipakai, semoga berguna, jangan lupa kasih star atau fork ya :)
 
 # TO DO
@@ -15,3 +17,7 @@ atau
 2. source (windows only)
 
 source LOKASI_FILE\database.sql 
+
+
+Indonesia region database 2015
+
